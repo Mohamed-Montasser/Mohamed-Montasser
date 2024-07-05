@@ -1,4 +1,7 @@
-# Hi there! 👋
+<h3 align="center">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 I'm Mohamed Montasser, a Mechatronics Engineering student based in Cairo, Egypt. I'm passionate about 
 robotics, automation, and the integration of mechanical, electronic, and software systems.
@@ -29,6 +32,6 @@ Here are some projects I've worked on:
 - **Remote controled Aircraft**: Created a Remote controled Aircraft using a Pixhawk.
 - **Vending machine software**: Created a Vending machine software using C++.
 
-## Connect with me
+### 🔗 Connect with Me 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mohamed-montasser-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
-- [LinkedIn] https://www.linkedin.com/in/mohamed-montasser-/
