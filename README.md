@@ -29,7 +29,7 @@ Here are some projects I've worked on:
 
 - **Robotic Arm Control**: Created a robotic arm controlled using a Arduino.
 - **Autonomous car**: Created an Autonomous car controlled using a Arduino.
-- **Remote controled Aircraft**: Created a Remote controled Aircraft using a Pixhawk.
+- **Remote controled Aircraft**: Created a Remote controled Aircraft using Pixhawk.
 - **Vending machine software**: Created a Vending machine software using C++.
 
 ### 🔗 Connect with Me 
