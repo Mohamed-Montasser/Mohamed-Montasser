@@ -14,7 +14,7 @@ robotics, automation, and the integration of mechanical, electronic, and softwar
 - 👯 I’m looking to collaborate on innovative robotics projects and research.
 - 🤔 I’m looking for help with mastering AI applications in mechatronics.
 - 💬 Ask me about robotics, automation, and embedded systems.
-- 📫 How to reach me: mmontasser43@gmail.com
+- 📫 How to reach me: m.montasser.elazab@gmail.com
 
 ## My Skills
 
