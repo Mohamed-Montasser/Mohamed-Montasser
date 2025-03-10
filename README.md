@@ -22,7 +22,7 @@ My focus lies in **AI-driven robotics, embedded systems, and machine learning ap
 - 🌱 Exploring **Machine Learning, Embedded Systems, and AI for robotics**.  
 - 🤖 Passionate about **computer vision, deep learning, and reinforcement learning**.  
 - 👯 Open to collaborating on **AI-driven robotics and automation projects**.  
-- 📫 Reach me at **m.montasser.elazab@gmail.com**.  
+- 📫 Reach me at [**m.montasser.elazab@gmail.com**](mailto:m.montasser.elazab@gmail.com)  .  
 
 ---
 
