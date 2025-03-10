@@ -69,11 +69,12 @@ My focus lies in **AI-driven robotics, embedded systems, and machine learning ap
 
 ## 🔬 Featured Projects  
 
-🚗 **Autonomous Car** – Built an **AI-driven autonomous car** using **Arduino & OpenCV for lane detection**.  
+🧐 **Face Recognition System** – Implemented a **Python & OpenCV-based face recognition system** using the **LBPH algorithm** for training and real-time detection.  
 🎨 **Shape & Color Recognition** – A **computer vision-based system** for detecting shapes and colors.  
 🦾 **Robotic Arm Control** – Developed an **Arduino-controlled** robotic arm with precise movement.  
 ✈️ **Remote-Controlled Aircraft** – Designed and implemented an **aircraft controlled via Pixhawk**.  
 📊 **ML for Predictive Maintenance** – Built a **data-driven ML model** for predicting mechanical failures.  
+🚗 **Autonomous Car** – Built an **autonomous car** using **Arduino**.  
 
 ---
 
