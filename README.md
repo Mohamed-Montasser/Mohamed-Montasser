@@ -69,6 +69,7 @@ My focus lies in **AI-driven robotics, embedded systems, and machine learning ap
 
 ## 🔬 Featured Projects  
 
+📷 [**Real-Time Object Detection for Autonomous Vehicles**](https://github.com/Mohamed-Montasser/AutonomousVehicles-ObjectDetection) – Developed a **deep learning-based system** that performs **real-time object detection** from video streams, identifying vehicles, pedestrians, traffic signs, and road obstacles.
 🧐 [**Face Recognition System**](https://github.com/Mohamed-Montasser/Face-Recognition) – Implemented a **Python & OpenCV-based face recognition system** using the **LBPH algorithm** for training and real-time detection.  
 🎨 [**Shape & Color Recognition**](https://github.com/Mohamed-Montasser/Shape-Color-Recognition) – A **computer vision-based system** for detecting shapes and colors.  
 🦾 **Robotic Arm Control** – Developed an **Arduino-controlled** robotic arm with precise movement.  
