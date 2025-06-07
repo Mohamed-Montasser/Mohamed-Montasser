@@ -1,4 +1,3 @@
-![Mohamed-Montasser's Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Montasser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 <h3 align="center">
   Hi there! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -9,7 +8,7 @@
   <img src="https://img.shields.io/badge/-AI & Robotics-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/-Machine Learning-orange?style=for-the-badge">
 </p>
-
+![Mohamed-Montasser's Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Montasser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ---
 
 ### 🚀 About Me
