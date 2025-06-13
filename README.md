@@ -11,7 +11,6 @@
   <img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Montasser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img width="340" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Montasser&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Montasser&theme=tokyonight&no-frame=true" />
 </p>
 
 ---
