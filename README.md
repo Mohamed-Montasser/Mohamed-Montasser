@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Mechatronics Engineering-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/-AI & Robotics-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/-Machine Learning-orange?style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-Montasser&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Montasser" />
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-Montasser&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   <br><br>
   <img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Montasser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img width="340" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Montasser&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
