@@ -72,7 +72,11 @@ My focus lies in **AI-driven robotics, embedded systems, and machine learning ap
 ---
 
 ## 🔬 Featured Projects  
-
+🛒 [**Shoplifting Detection using CNN-LSTM**](https://github.com/Mohamed-Montasser/Shoplifting-Detection) – A **deep learning-based video classification system** using a custom CNN-LSTM and fine-tuned 3D ResNet for detecting shoplifting in real surveillance footage with Django web deployment.  
+🛰️ [**Satellite Water Segmentation**](https://github.com/Mohamed-Montasser/Satellite-Image-Segmentation) – A **Flask-based PyTorch API** for water segmentation in satellite images using **U-Net with MobileNetV2 encoder**, supporting 12-channel TIFF processing and NDWI/NDVI computation.  
+💬 [**Context-Aware Conversational Agent**](https://github.com/Mohamed-Montasser/Context-Aware-Conversational-Agent) – A **smart LLM-powered chatbot** that autonomously retrieves, validates, and reasons about missing context for accurate and grounded responses.  
+🤖 [**AI Code Assistant**](https://github.com/Mohamed-Montasser/AI-Code-Assistant) – A **Gemini-based code assistant** using RAG, FAISS, and intent classification to generate high-quality Python code through a **Gradio chat interface**.  
+🖼️ [**llamaGuard safetyCheck**](https://github.com/Mohamed-Montasser/llamaGuard-safetyCheck) – A **Streamlit-based app** combining BLIP captioning, LLaMA Guard 2 moderation, and DistilBERT ONNX safety verification for text and image moderation.      
 🏨 [**Hotel Booking System**](https://github.com/Mohamed-Montasser/Hotel-booking-system) – Built a hotel booking app with JavaFX supporting admin/customer roles, room management, booking logic, discounts, sorting, and filtering.  
 📷 [**Real-Time Object Detection for Autonomous Vehicles**](https://github.com/Mohamed-Montasser/AutonomousVehicles-ObjectDetection) – Developed a **deep learning-based system** that performs **real-time object detection** from video streams and images, identifying vehicles, pedestrians, traffic signs, and road obstacles.    
 🧐 [**Face Recognition System**](https://github.com/Mohamed-Montasser/Face-Recognition) – Implemented a **Python & OpenCV-based face recognition system** using the **LBPH algorithm** for training and real-time detection.  
