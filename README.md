@@ -63,7 +63,8 @@ My focus lies in **AI-driven robotics, embedded systems, and machine learning ap
   <img src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white">
   <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
   <img src="https://img.shields.io/badge/-ESP32-75AADB?style=flat-square&logo=espressif&logoColor=white">
-  <img src="https://img.shields.io/badge/-Raspberrypi-563D7C?style=flat-square&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white">
 </p>
 
 ### 🔹 Mechanical & PCB Design  
