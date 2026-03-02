@@ -67,6 +67,14 @@ My focus lies in **AI-driven robotics, embedded systems, and machine learning ap
   <img src="https://img.shields.io/badge/-NVIDIA%20Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white">
 </p>
 
+### 🔹 Model Based Design (MBD) & Digital Twin  
+<p align="left">
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white">
+  <img src="https://img.shields.io/badge/-Simulink-E16737?style=flat-square&logo=simulink&logoColor=white">
+  <img src="https://img.shields.io/badge/-Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/-Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white">
+</p>
+
 ### 🔹 Mechanical & PCB Design  
 <p align="left">
   <img src="https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white">
