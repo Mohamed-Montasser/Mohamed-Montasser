@@ -1,3 +1,4 @@
+
 <h3 align="center">
   Hi there! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -9,8 +10,12 @@
   <img src="https://img.shields.io/badge/-Machine Learning-orange?style=for-the-badge">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Montasser&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   <br><br>
+    <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+  <!---
   <img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Montasser&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <img width="340" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Montasser&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  --->
+  
   <br><br>
 </p>
 
